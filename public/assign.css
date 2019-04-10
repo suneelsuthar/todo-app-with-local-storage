@@ -1,0 +1,56 @@
+#divone{
+    /* height: 300px; */
+    width: 30%;
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;   
+    margin: auto auto;
+    background-color: whitesmoke; 
+} 
+
+#btn{
+    border: 0px;
+    background-color: whitesmoke;
+}
+
+#btn:hover{
+    color: aquamarine;
+    /* border: 0px; */
+}
+
+#input1{
+    width: 84%;
+    height: 30px;
+    border: 1px solid gainsboro;
+    border-radius: 3px;
+    padding-left: 8px;
+    
+}
+
+
+li{
+    list-style-type: none;
+    text-align: left;
+    padding-left: 0px;
+
+}
+
+ul{
+    border: 1px solid grey;
+    border-radius: 2px;
+
+
+}
+
+.left1{
+    /* float: right; */
+    font-size: 10px;
+    /* margin-left: 5px; */
+    height: 18px;
+    border: 0px;
+    float: right;
+}
+
+.left1:hover{
+    background-color: crimson;
+}
